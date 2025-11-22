@@ -1,5 +1,7 @@
 # SQL Projects
 
+<br>
+
 | Name | Description |
 |:----:|-------------|
 | [Fortune 500](Fortune%20500%20Analytics.md) | Explores the databse of Fortune companies, examining employee tenure, revenue categories, maternity leave standards, and the relationship between healthcare benefits, paid time off, and employee retention across different sectors. |
